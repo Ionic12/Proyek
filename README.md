@@ -1,2 +1,2 @@
 # Proyek
-System.out.println("");
+System.out.println(" Iqshan Bagus Prasetyo");
